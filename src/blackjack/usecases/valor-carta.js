@@ -1,7 +1,7 @@
 /**
  * Esta funcion retorna el valor de la carta
  * @param {String} carta Ejemplo: '2D' 
- * @returns {Int} Retorna el valor de la carta
+ * @returns {Number} Retorna el valor de la carta
  */
 
 export const valorCarta = (carta) => {
